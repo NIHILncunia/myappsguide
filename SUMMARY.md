@@ -22,3 +22,4 @@
     * [ERP 데이터 연동하기](part-2/myapps-intro/4-about-form/5-using-erp-data.md)
     * [기존의 폼으로 새로운 폼 만들기](part-2/myapps-intro/4-about-form/6-form-copy.md)
     * [폼 디자인하기](part-2/myapps-intro/4-about-form/7-form-design/README.md)
+      * [도구상자 살펴보기](part-2/myapps-intro/4-about-form/7-form-design/1-about-components.md)
