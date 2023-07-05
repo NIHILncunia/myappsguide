@@ -11,3 +11,4 @@
 * [마이앱스 살펴보기](part-2/myapps-intro/README.md)
   * [워크스페이스로 이동하기](part-2/myapps-intro/1-go-to-workspace.md)
   * [앱 만들기](part-2/myapps-intro/2-create-app.md)
+  * [앱 삭제하기](part-2/myapps-intro/3-delete-app.md)
