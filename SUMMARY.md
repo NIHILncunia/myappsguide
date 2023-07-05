@@ -1,10 +1,10 @@
 # Table of contents
 
-* [P](README.md)
+* [마이앱스 이용 가이드](README.md)
 
 ## PART 1
 
-* [Page 1](part-1/page-1.md)
+* [마이앱스란?](part-1/1-about-myapps.md)
 
 ## PART 2
 
