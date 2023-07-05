@@ -8,4 +8,4 @@
 
 ## PART 2
 
-* [Page 2](part-2/page-2.md)
+* [마이앱스 살펴보기](part-2/myapps-intro.md)
