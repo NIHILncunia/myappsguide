@@ -18,3 +18,4 @@
     * [마켓에서 폼 설치하기](part-2/myapps-intro/4-about-form/3-using-market.md)
     * [엑셀 데이터로 폼 만들기](part-2/myapps-intro/4-about-form/4-use-excel-data/README.md)
       * [엑셀 파일로 폼 만들기](part-2/myapps-intro/4-about-form/4-use-excel-data/1-create-form-with-excel-file.md)
+      * [엑셀 데이터로 폼 만들기](part-2/myapps-intro/4-about-form/4-use-excel-data/2-create-form-with-excel-data.md)
