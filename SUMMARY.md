@@ -19,3 +19,6 @@
     * [엑셀 데이터로 폼 만들기](part-2/myapps-intro/4-about-form/4-use-excel-data/README.md)
       * [엑셀 파일로 폼 만들기](part-2/myapps-intro/4-about-form/4-use-excel-data/1-create-form-with-excel-file.md)
       * [엑셀 데이터로 폼 만들기](part-2/myapps-intro/4-about-form/4-use-excel-data/2-create-form-with-excel-data.md)
+    * [ERP 데이터 연동하기](part-2/myapps-intro/4-about-form/5-using-erp-data.md)
+    * [기존의 폼으로 새로운 폼 만들기](part-2/myapps-intro/4-about-form/6-form-copy.md)
+    * [폼 디자인하기](part-2/myapps-intro/4-about-form/7-form-design/README.md)
