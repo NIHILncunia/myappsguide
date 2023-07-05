@@ -15,3 +15,6 @@
   * [폼 살펴보기](part-2/myapps-intro/4-about-form/README.md)
     * [새로운 폼 만들기](part-2/myapps-intro/4-about-form/1-new-form.md)
     * [폼 수정화면 살펴보기](part-2/myapps-intro/4-about-form/2-about-form-editor.md)
+    * [마켓에서 폼 설치하기](part-2/myapps-intro/4-about-form/3-using-market.md)
+    * [엑셀 데이터로 폼 만들기](part-2/myapps-intro/4-about-form/4-use-excel-data/README.md)
+      * [엑셀 파일로 폼 만들기](part-2/myapps-intro/4-about-form/4-use-excel-data/1-create-form-with-excel-file.md)
