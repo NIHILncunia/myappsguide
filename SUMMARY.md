@@ -8,4 +8,5 @@
 
 ## PART 2
 
-* [마이앱스 살펴보기](part-2/myapps-intro.md)
+* [마이앱스 살펴보기](part-2/myapps-intro/README.md)
+  * [워크스페이스로 이동하기](part-2/myapps-intro/go-to-workspace.md)
