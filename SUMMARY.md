@@ -23,3 +23,4 @@
     * [기존의 폼으로 새로운 폼 만들기](part-2/myapps-intro/4-about-form/6-form-copy.md)
     * [폼 디자인하기](part-2/myapps-intro/4-about-form/7-form-design/README.md)
       * [도구상자 살펴보기](part-2/myapps-intro/4-about-form/7-form-design/1-about-components.md)
+      * [입력칸 크기 조정하기](part-2/myapps-intro/4-about-form/7-form-design/2-resizing-form-element.md)
