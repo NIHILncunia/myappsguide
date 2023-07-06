@@ -30,3 +30,5 @@
       * [그리드 설정하기](part-2/myapps-intro/4-about-form/7-form-design/6-grid-setting.md)
       * [그리드 컬럼 삭제하기](part-2/myapps-intro/4-about-form/7-form-design/7-grid-column-delete.md)
     * [데이터 추가](part-2/myapps-intro/4-about-form/8-add-data.md)
+    * [데이터 조회](part-2/myapps-intro/4-about-form/9-data-read.md)
+    * [데이터 수정, 삭제](part-2/myapps-intro/4-about-form/10-update-delete-data.md)
