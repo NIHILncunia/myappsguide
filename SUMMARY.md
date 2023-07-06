@@ -24,3 +24,8 @@
     * [폼 디자인하기](part-2/myapps-intro/4-about-form/7-form-design/README.md)
       * [도구상자 살펴보기](part-2/myapps-intro/4-about-form/7-form-design/1-about-components.md)
       * [입력칸 크기 조정하기](part-2/myapps-intro/4-about-form/7-form-design/2-resizing-form-element.md)
+      * [컴포넌트 설정하기](part-2/myapps-intro/4-about-form/7-form-design/3-component-option.md)
+      * [조회(필터) 설정하기](part-2/myapps-intro/4-about-form/7-form-design/4-filter-setting.md)
+      * [불필요한 입력 폼 화면에서 지우기](part-2/myapps-intro/4-about-form/7-form-design/5-delete-component.md)
+      * [그리드 설정하기](part-2/myapps-intro/4-about-form/7-form-design/6-grid-setting.md)
+      * [그리드 컬럼 삭제하기](part-2/myapps-intro/4-about-form/7-form-design/7-grid-column-delete.md)
