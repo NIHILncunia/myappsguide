@@ -32,3 +32,4 @@
     * [데이터 추가](part-2/myapps-intro/4-about-form/8-add-data.md)
     * [데이터 조회](part-2/myapps-intro/4-about-form/9-data-read.md)
     * [데이터 수정, 삭제](part-2/myapps-intro/4-about-form/10-update-delete-data.md)
+    * [폼 삭제하기](part-2/myapps-intro/4-about-form/11-delete-form.md)
