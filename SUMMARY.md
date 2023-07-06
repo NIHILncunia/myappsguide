@@ -29,3 +29,4 @@
       * [불필요한 입력 폼 화면에서 지우기](part-2/myapps-intro/4-about-form/7-form-design/5-delete-component.md)
       * [그리드 설정하기](part-2/myapps-intro/4-about-form/7-form-design/6-grid-setting.md)
       * [그리드 컬럼 삭제하기](part-2/myapps-intro/4-about-form/7-form-design/7-grid-column-delete.md)
+    * [데이터 추가](part-2/myapps-intro/4-about-form/8-add-data.md)
