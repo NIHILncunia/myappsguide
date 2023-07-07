@@ -34,3 +34,8 @@
     * [데이터 수정, 삭제](part-2/myapps-intro/4-about-form/10-update-delete-data.md)
     * [폼 삭제하기](part-2/myapps-intro/4-about-form/11-delete-form.md)
   * [달력 살펴보기](part-2/myapps-intro/5-about-calendar/README.md)
+    * [일정 유형 관리하기](part-2/myapps-intro/5-about-calendar/1-schedule-type-management.md)
+    * [달력에 일정 적용해보기](part-2/myapps-intro/5-about-calendar/2-calendar-schedule-setting.md)
+  * [다이어그램 살펴보기](part-2/myapps-intro/6-about-diagram/README.md)
+    * [다이어그램 UI 살펴보기](part-2/myapps-intro/6-about-diagram/1-diagram-ui.md)
+    * [다이어그램 구성요소 살펴보기](part-2/myapps-intro/6-about-diagram/2-diagram-item.md)
