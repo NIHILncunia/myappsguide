@@ -1,4 +1,4 @@
 # 공유를 위한 사용자 설정
 사용자 설정과 역할 설정, 메뉴의 권한 설정이 되어있지 않으면 아무리 공유를 해도 공유 받은 사람은 폼을 열람하는 것조차도 불가능합니다. 사용자 등록은 아래의 링크를 참조해주세요.
 
-[**☞ 사용자 추가하기**](/part-3/1-default-settings/2-user-management/1-add-user.md)
+[**☞ 사용자 추가하기**](/part-3/1-default-settings/2-share-user-management/1-add-user.md)
